@@ -1,3 +1,4 @@
+// Name
 class ApplicationRoot extends JABApplicationRoot {
 
 	constructor (customId) {
