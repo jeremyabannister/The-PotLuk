@@ -21,7 +21,6 @@ class ApplicationRoot extends JABApplicationRoot {
 			topBufferForComingSoonLabel: 50,
 		}
 		
-		
 		// UI
 		if (this.laboratoryEnabled) {
 			// this.laboratory = new Laboratory('Laboratory')
